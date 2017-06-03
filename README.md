@@ -1,3 +1,5 @@
+I learned to code this game from a UDEMY course, very fun to learn and code. Try it out, see if you like it.
+
 GAME RULES:
 
 - The game has 2 players, playing in rounds
